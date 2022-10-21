@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": "Normal",
+    "name": "Couple Room",
+    "description": "This hotel is located directly next to the East Side Gallery in the cool Friedrichshain district of Berlin ",
+    "price": 420,
+    "available": 20,
+    "ratings": 4,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/159995849.jpg?k=6384193a98d20ae7105024c2f56d86e516bd3153b867e7f3e21c977e013c460b&o=&hp=1"
+  },
+  {
+    "id": 2,
+    "category": "Normal",
+    "name": "Single Room",
+    "description": "This hotel is located directly next to the East Side Gallery in the cool Friedrichshain district of Berlin ",
+    "price": 520,
+    "available": 10,
+    "ratings": 5,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166922182.jpg?k=547de6ec09902ae8b492588df903f15ce81a100d250ac63e1bb885fca11a8076&o=&hp=1"
+  },
+  {
+    "id": 3,
+    "category": "Delux",
+    "name": "Double Room",
+    "description": "This hotel is located directly next to the East Side Gallery in the cool Friedrichshain district of Berlin ",
+    "price": 1020,
+    "available": 5,
+    "ratings": 5,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171478181.jpg?k=5dccd3fc8c8cdaf15c2173321ac35e91b44540f153140768dac4d8e08ef57d55&o=&hp=1"
+  },
+  {
+    "id": 4,
+    "category": "Premium",
+    "name": "Couple Room",
+    "description": "This hotel is located directly next to the East Side Gallery in the cool Friedrichshain district of Berlin ",
+    "price": 820,
+    "available": 2,
+    "ratings": 5,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166921178.jpg?k=83b4e7a5ccb3a2966039046155507f729ef7d93e089f17e4b6de5709e2cab57b&o=&hp=1"
+  },
+  {
+    "id": 5,
+    "category": "Delux",
+    "name": "Double Room",
+    "description": "This hotel is located directly next to the East Side Gallery in the cool Friedrichshain district of Berlin ",
+    "price": 1020,
+    "available": 5,
+    "ratings": 5,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166922182.jpg?k=547de6ec09902ae8b492588df903f15ce81a100d250ac63e1bb885fca11a8076&o=&hp=1"
+  },
+  {
+    "id": 6,
+    "category": "Premium",
+    "name": "Single",
+    "description": "This hotel is located directly next to the East Side Gallery in the cool Friedrichshain district of Berlin ",
+    "price": 520,
+    "available": 5,
+    "ratings": 5,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166922182.jpg?k=547de6ec09902ae8b492588df903f15ce81a100d250ac63e1bb885fca11a8076&o=&hp=1"
+  }
+]
